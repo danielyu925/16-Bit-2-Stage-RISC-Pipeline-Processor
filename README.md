@@ -35,7 +35,7 @@ All instructions start by using the contents of the program counter (PC) as the 
 [The Decoder Verilog Code](Code/decode.v)
 
 ### Shifter
-The shifter is a 16-bit Barrel Left Shifter. The amount of shifting is positive between 0 and 15.
+The shifter is a 16-bit Logical Left Shifter. The amount of shifting is positive between 0 and 15.
 
 ### Arithmetic and Logic Unit (ALU)
 Arithmetic and Logic Unit (ALU) support consists of (i) ADD, (ii) AND, (iii) OR, and (iv) XOR.
