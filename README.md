@@ -1,4 +1,4 @@
-# 16-Bit 4-Stage RISC Pipeline Processor
+# 16-Bit 2-Stage RISC Pipeline Processor
 
 ## Design Architecture
 <img src="/Figure/Processor_Arch.png">
