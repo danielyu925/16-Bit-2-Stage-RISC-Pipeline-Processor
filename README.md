@@ -60,4 +60,4 @@ The design is a 10T SRAM with the same hierarchy as the DMEM. It is designed to 
 <img src="/Figure/layout_placement.png">
 
 ## Report
-[16-Bit 4-Stage RISC Pipeline Processor Report](Final_Report.pdf)
+[16-Bit 2-Stage RISC Pipeline Processor Report](Final_Report.pdf)
